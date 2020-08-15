@@ -34,6 +34,7 @@ yay -S freetube-bin --noconfirm
 yay -S joplin --noconfirm
 yay -S virt-manager --noconfirm
 yay -S ice-ssb --noconfirm
+yay -S icecat --noconfirm
 yay -S gedit --noconfirm
 yay -S celluloid --noconfrim
 yay -S obs-studio --noconfirm
@@ -89,4 +90,7 @@ rm ~/.config/rofi/rofi.rasi
 ## final update
 yay -Syyuu --noconfirm
 
+clear
+echo
+echo
 echo "REBOOT your pc"
