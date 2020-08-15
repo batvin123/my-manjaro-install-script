@@ -29,7 +29,6 @@ yay -S lutris --noconfirm
 yay -S steam-manjaro --noconfirm
 yay -S lightdm-webkit2-greeter lightdm-webkit-theme-aether
 yay -S stacer --noconfirm
-yay -S veyon --noconfirm
 yay -S freetube-bin --noconfirm
 yay -S joplin --noconfirm
 yay -S virt-manager --noconfirm
