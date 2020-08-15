@@ -34,6 +34,7 @@ yay -S joplin --noconfirm
 yay -S virt-manager --noconfirm
 yay -S ice-ssb --noconfirm
 yay -S nextcloud-client --noconfirm
+yay -S lbry --noconfirm
 yay -S gedit --noconfirm
 yay -S celluloid --noconfrim
 yay -S obs-studio --noconfirm
