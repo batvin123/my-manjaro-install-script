@@ -33,7 +33,7 @@ yay -S freetube-bin --noconfirm
 yay -S joplin --noconfirm
 yay -S virt-manager --noconfirm
 yay -S ice-ssb --noconfirm
-yay -S icecat --noconfirm
+yay -S nextcloud-client --noconfirm
 yay -S gedit --noconfirm
 yay -S celluloid --noconfrim
 yay -S obs-studio --noconfirm
