@@ -29,12 +29,11 @@ yay -S lutris --noconfirm
 yay -S steam-manjaro --noconfirm
 yay -S lightdm-webkit2-greeter lightdm-webkit-theme-aether
 yay -S stacer --noconfirm
+yay -S veyon --noconfirm
 yay -S freetube-bin --noconfirm
 yay -S joplin --noconfirm
 yay -S virt-manager --noconfirm
 yay -S ice-ssb --noconfirm
-yay -S nextcloud-client --noconfirm
-yay -S lbry --noconfirm
 yay -S gedit --noconfirm
 yay -S celluloid --noconfrim
 yay -S obs-studio --noconfirm
@@ -94,3 +93,4 @@ clear
 echo
 echo
 echo "REBOOT your pc"
+
